@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Acceso directo mas confiable (evita pantalla gris), icono nuevo, y otras mejoras.",
+  "version": "1.2.0",
+  "notes": "Se saco la funcion de ocultar videos musicales por causar problemas de reproduccion (video/audio quedaba roto). Videos vuelven a comportarse igual que Spotify normal.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
