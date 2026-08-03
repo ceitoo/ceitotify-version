@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "notes": "Se saco la funcion de ocultar videos musicales por causar problemas de reproduccion (video/audio quedaba roto). Videos vuelven a comportarse igual que Spotify normal.",
+  "version": "1.3.0",
+  "notes": "Nuevos temas, editor de recorte para el icono/GIF de Ceitotify, arreglo de la franja de fondo en pantalla completa, y boton de reporte para toggles de Home que dejen de funcionar.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
