@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "Nuevos temas, editor de recorte para el icono/GIF de Ceitotify, arreglo de la franja de fondo en pantalla completa, y boton de reporte para toggles de Home que dejen de funcionar.",
+  "version": "1.3.1",
+  "notes": "El icono/GIF personalizado ahora se guarda en un lugar con mucho mas espacio (hasta 15MB en vez de romperse con GIFs pesados).",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
