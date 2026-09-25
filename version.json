@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "notes": "El icono/GIF personalizado ahora se guarda en un lugar con mucho mas espacio (hasta 15MB en vez de romperse con GIFs pesados).",
+  "version": "1.4.4",
+  "notes": "Nuevo: fondo personalizado, ahora podes poner tu propia imagen o GIF de fondo en toda la interfaz (Temas > Fondo personalizado), con control de opacidad de paneles, oscurecido y nitidez (las imagenes fijas se reescalan a la resolucion de tu pantalla y se enfocan). Arreglos: a veces Ceitotify cargaba a medias (sin tema, sin boton, sin Market) porque el propio Spicetify fallaba al iniciar; ahora se detecta y recarga solo. Reinstalar desde CeitoTweaks con Spotify abierto dejaba Spotify sin parchear; ahora lo cierra, parchea y lo reabre.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
