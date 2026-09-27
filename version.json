@@ -1,5 +1,5 @@
 {
-  "version": "1.4.4",
-  "notes": "Nuevo: fondo personalizado, ahora podes poner tu propia imagen o GIF de fondo en toda la interfaz (Temas > Fondo personalizado), con control de opacidad de paneles, oscurecido y nitidez (las imagenes fijas se reescalan a la resolucion de tu pantalla y se enfocan). Arreglos: a veces Ceitotify cargaba a medias (sin tema, sin boton, sin Market) porque el propio Spicetify fallaba al iniciar; ahora se detecta y recarga solo. Reinstalar desde CeitoTweaks con Spotify abierto dejaba Spotify sin parchear; ahora lo cierra, parchea y lo reabre.",
+  "version": "2.0.0",
+  "notes": "Ceitotify 2.0 \"Aurora\": interfaz completamente rediseñada (panel con barra lateral, buscador, animaciones y logo nuevo), intro animada al abrir Spotify, paleta de comandos (Ctrl+K), pestañas nuevas Inicio / Extras / Atajos, 22 plugins nuevos (color dinamico desde la portada, temporizador de sueño, pomodoro, protector de pantalla, vinilo, confeti y mas), 11 temas nuevos y pulido de todos los temas existentes.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
