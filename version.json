@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "notes": "Ceitotify 2.0.1: el Market ahora tiene 98 extensiones (letras estilo Apple Music, calificar con estrellas, escuchar juntos, joystick y mucho mas), cat-jam vuelve a bailar al ritmo de la cancion y ya no queda oculto con 'Ocultar videos', Sorprendeme arreglado y arreglos varios.",
+  "version": "2.0.2",
+  "notes": "Ceitotify 2.0.2: la intro ahora espera a que Spotify termine de cargar y este fluido antes de irse, asi ya no se ve trabado al abrir.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
