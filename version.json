@@ -1,5 +1,5 @@
 {
-  "version": "2.1.5",
-  "notes": "Ceitotify 2.1.5: la estela del cursor queda siempre activa (antes se congelaba cuando Windows creia que Spotify estaba tapado, y volvia recien al tocar el menu), sin el punto fijo y mas larga para que se vea continua. La intro se va sin tirones.",
+  "version": "2.1.6",
+  "notes": "Ceitotify 2.1.6: la estela del cursor ya no desaparece mientras arrastras la barra de desplazamiento para subir o bajar.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
