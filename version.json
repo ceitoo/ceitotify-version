@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
-  "notes": "Ceitotify 2.1.1: nueva pestaña Premium con todos los beneficios y un boton para conseguirlo en CeitoTweaks; los temas, Extras y Efectos premium ahora se ven con candado; la barra de la intro muestra el progreso real; y vuelven a verse todos los avisos de Ceitotify (las notificaciones de Spicetify estaban rotas).",
+  "version": "2.1.2",
+  "notes": "Ceitotify 2.1.2: 13 fuentes nuevas pasan a Premium (Lato, Nunito, Raleway, Oswald, Quicksand, Playfair, Merriweather, JetBrains Mono, Space Mono, Fira Code, Press Start 2P, Pacifico y Bebas Neue). Las ves escritas con su propia letra y con candado; quedan gratis Inter, Poppins, Roboto, Montserrat, Open Sans y Comic Sans.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
