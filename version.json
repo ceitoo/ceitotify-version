@@ -1,5 +1,5 @@
 {
-  "version": "2.1.6",
-  "notes": "Ceitotify 2.1.6: la estela del cursor ya no desaparece mientras arrastras la barra de desplazamiento para subir o bajar.",
+  "version": "2.1.7",
+  "notes": "Ceitotify 2.1.7: 'Portada tipo vinilo' ahora es gratis (en la pestaña Efectos). La estela del cursor se rehizo en SVG y se ve mas estable.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
