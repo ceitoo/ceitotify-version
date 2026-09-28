@@ -1,5 +1,5 @@
 {
-  "version": "2.1.7",
-  "notes": "Ceitotify 2.1.7: 'Portada tipo vinilo' ahora es gratis (en la pestaña Efectos). La estela del cursor se rehizo en SVG y se ve mas estable.",
+  "version": "2.1.8",
+  "notes": "Ceitotify 2.1.8: el tema Neon vuelve a cambiar de color rapido, y ya no se congela mientras moves el mouse.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
