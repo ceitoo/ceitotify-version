@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
-  "notes": "Ceitotify 2.1.2: 13 fuentes nuevas pasan a Premium (Lato, Nunito, Raleway, Oswald, Quicksand, Playfair, Merriweather, JetBrains Mono, Space Mono, Fira Code, Press Start 2P, Pacifico y Bebas Neue). Las ves escritas con su propia letra y con candado; quedan gratis Inter, Poppins, Roboto, Montserrat, Open Sans y Comic Sans.",
+  "version": "2.1.3",
+  "notes": "Ceitotify 2.1.3: mucho menos lag al mover el mouse y usar Spotify (los Ocultar... ya no revisan la pagina en cada cambio, los temas Neon cambian de color sin trabar y el brillo arcoiris lo hace la placa de video). Estela del cursor nueva: una linea continua que ya no se corta al mover rapido. Arreglado el salto infinito de canciones con Anti repetidas y Saltar canciones cortas.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
