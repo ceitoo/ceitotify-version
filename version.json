@@ -1,5 +1,5 @@
 {
-  "version": "2.1.4",
-  "notes": "Ceitotify 2.1.4: el mayor arreglo de lag hasta ahora. Spicetify tenia un error que con Spotify 1.3 dejaba prendido un 'optimizador' que revisaba toda la pagina en cada cambio; Ceitotify ahora lo corrige al instalar (y despues de cada actualizacion de Spotify). En nuestras pruebas Spotify hace casi 5 veces menos trabajo al usarlo. Tambien se ven siempre los avisos de Ceitotify.",
+  "version": "2.1.5",
+  "notes": "Ceitotify 2.1.5: la estela del cursor queda siempre activa (antes se congelaba cuando Windows creia que Spotify estaba tapado, y volvia recien al tocar el menu), sin el punto fijo y mas larga para que se vea continua. La intro se va sin tirones.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
