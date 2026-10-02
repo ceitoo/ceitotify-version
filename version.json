@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
-  "notes": "Ceitotify 2.2.0: nueva pestaña Bindear. Asigna tus propias teclas a 19 acciones (pausar, siguiente, volumen, Me gusta, adelantar 10s, tema al azar, abrir el menu, ir a Buscar y mas). Ejemplo: H para pausar. Funciona en todo Spotify salvo mientras escribis.",
+  "version": "2.2.1",
+  "notes": "Ceitotify 2.2.1: nuevo atajo Ctrl+A para abrir y cerrar el menu de Ceitotify (mientras escribis en un campo sigue siendo seleccionar todo). En Ajustes hay un boton para copiar un diagnostico del boton de perfil, para ayudarnos a arreglarlo si no te aparece.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
