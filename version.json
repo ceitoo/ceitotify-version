@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1",
-  "notes": "Ceitotify 2.2.1: nuevo atajo Ctrl+A para abrir y cerrar el menu de Ceitotify (mientras escribis en un campo sigue siendo seleccionar todo). En Ajustes hay un boton para copiar un diagnostico del boton de perfil, para ayudarnos a arreglarlo si no te aparece.",
+  "version": "2.2.2",
+  "notes": "Ceitotify 2.2.2: si no se encuentra el boton de perfil (versiones nuevas de Spotify), el boton de Ceitotify aparece al lado de la campanita o del icono de amigos, en vez de quedar escondido.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
