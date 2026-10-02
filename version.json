@@ -1,5 +1,5 @@
 {
-  "version": "2.1.8",
-  "notes": "Ceitotify 2.1.8: el tema Neon vuelve a cambiar de color rapido, y ya no se congela mientras moves el mouse.",
+  "version": "2.1.9",
+  "notes": "Ceitotify 2.1.9: arreglado el boton de perfil (arriba a la derecha) que en algunas PCs con la version nueva de Spotify aparecia como un circulo negro. Ahora muestra tu foto, y si no carga, el logo de Ceitotify.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
