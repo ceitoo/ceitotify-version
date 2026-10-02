@@ -1,5 +1,5 @@
 {
-  "version": "2.1.9",
-  "notes": "Ceitotify 2.1.9: arreglado el boton de perfil (arriba a la derecha) que en algunas PCs con la version nueva de Spotify aparecia como un circulo negro. Ahora muestra tu foto, y si no carga, el logo de Ceitotify.",
+  "version": "2.2.0",
+  "notes": "Ceitotify 2.2.0: nueva pestaña Bindear. Asigna tus propias teclas a 19 acciones (pausar, siguiente, volumen, Me gusta, adelantar 10s, tema al azar, abrir el menu, ir a Buscar y mas). Ejemplo: H para pausar. Funciona en todo Spotify salvo mientras escribis.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
