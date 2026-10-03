@@ -1,5 +1,5 @@
 {
-  "version": "2.2.2",
-  "notes": "Ceitotify 2.2.2: si no se encuentra el boton de perfil (versiones nuevas de Spotify), el boton de Ceitotify aparece al lado de la campanita o del icono de amigos, en vez de quedar escondido.",
+  "version": "2.2.3",
+  "notes": "Ceitotify 2.2.3: arreglado el boton de Ceitotify que no aparecia con Spotify 1.3.3. Si tu Spotify se actualizo y no veias el boton de arriba a la derecha, actualiza Ceitotify y vuelve a aparecer.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
