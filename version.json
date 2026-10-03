@@ -1,5 +1,5 @@
 {
-  "version": "2.2.4",
-  "notes": "Ceitotify 2.2.4: ahora todos pueden poner su propia foto o GIF en el boton de Ceitotify, sin Premium (Plugins > Cambiar foto/gif del boton Ceitotify).",
+  "version": "2.2.5",
+  "notes": "Ceitotify 2.2.5: nuevo banner para tu perfil (reemplaza el fondo gris, en Plugins > Elegir banner del perfil). Tu foto de Ceitotify vuelve a verse en tu perfil con Spotify 1.3.3, y ya no se cambia en el perfil de otras personas. Las fotos del boton y del banner son gratis; los GIF animados son Premium.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
