@@ -1,5 +1,5 @@
 {
-  "version": "2.2.3",
-  "notes": "Ceitotify 2.2.3: arreglado el boton de Ceitotify que no aparecia con Spotify 1.3.3. Si tu Spotify se actualizo y no veias el boton de arriba a la derecha, actualiza Ceitotify y vuelve a aparecer.",
+  "version": "2.2.4",
+  "notes": "Ceitotify 2.2.4: ahora todos pueden poner su propia foto o GIF en el boton de Ceitotify, sin Premium (Plugins > Cambiar foto/gif del boton Ceitotify).",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
