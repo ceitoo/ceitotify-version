@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
-  "notes": "Ceitotify 2.3.1: tus atajos de Bindear ahora andan aunque Spotify este minimizado o en segundo plano (las teclas solas se siguen escribiendo en las otras apps; con Ctrl, Alt o Win se quedan con la tecla), y la intro y el logo animado ya no se traban al abrir Spotify.",
+  "version": "2.3.2",
+  "notes": "Ceitotify 2.3.2: Spotify pasa a ser Ceitotify: el acceso directo se llama Ceitotify y tiene el logo (el viejo acceso Ceitotify que no abria Spotify quedo arreglado), el boton de la barra de tareas muestra el logo de Ceitotify y la ventana se llama Ceitotify cuando no suena nada.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
