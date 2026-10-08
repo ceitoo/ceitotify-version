@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
-  "notes": "Ceitotify 2.3.0: logo nuevo (Pulso) arriba a la izquierda de Spotify que baila con la musica, intro nueva con sonido, menu con iconos propios y tarjeta de Sonando ahora renovada, tema nuevo Pulso (firma) gratis, arreglada la Estela del cursor y Spotify carga mas rapido (el menu pesa 150KB menos).",
+  "version": "2.3.1",
+  "notes": "Ceitotify 2.3.1: tus atajos de Bindear ahora andan aunque Spotify este minimizado o en segundo plano (las teclas solas se siguen escribiendo en las otras apps; con Ctrl, Alt o Win se quedan con la tecla), y la intro y el logo animado ya no se traban al abrir Spotify.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
