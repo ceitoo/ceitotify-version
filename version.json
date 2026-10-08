@@ -1,5 +1,5 @@
 {
-  "version": "2.2.6",
-  "notes": "Ceitotify 2.2.6: el banner del perfil pasa a ser Premium, con imagen o GIF animado propio. La foto del boton de Ceitotify sigue siendo gratis (GIF: Premium).",
+  "version": "2.3.0",
+  "notes": "Ceitotify 2.3.0: logo nuevo (Pulso) arriba a la izquierda de Spotify que baila con la musica, intro nueva con sonido, menu con iconos propios y tarjeta de Sonando ahora renovada, tema nuevo Pulso (firma) gratis, arreglada la Estela del cursor y Spotify carga mas rapido (el menu pesa 150KB menos).",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
