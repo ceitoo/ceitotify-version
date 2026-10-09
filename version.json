@@ -1,5 +1,5 @@
 {
-  "version": "2.3.5",
-  "notes": "Ceitotify 2.3.5: arreglado Spotify en gris y la intro que se cargaba sin parar en algunas PCs (el motor de parcheo se caia buscando componentes de Spotify 1.3.4). Reinstala desde CeitoTweaks.",
+  "version": "2.3.6",
+  "notes": "Ceitotify 2.3.6: arreglado Spotify en gris con Volver a cargar la pagina. En algunas PCs la instalacion dejaba a Spotify sin algunos de sus archivos; ahora el instalador los revisa y los repone solo. Reinstala desde CeitoTweaks.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
