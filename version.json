@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
-  "notes": "Ceitotify 2.3.2: Spotify pasa a ser Ceitotify: el acceso directo se llama Ceitotify y tiene el logo (el viejo acceso Ceitotify que no abria Spotify quedo arreglado), el boton de la barra de tareas muestra el logo de Ceitotify y la ventana se llama Ceitotify cuando no suena nada.",
+  "version": "2.3.3",
+  "notes": "Ceitotify 2.3.3: arreglado Spotify que quedaba en las tarjetas grises con Volver a cargar la pagina (el bloqueador de anuncios rompia la carga en Spotify 1.3.4 y reintentaba sin parar comiendose el procesador), la intro ya no se traba al abrir Spotify y el logo de arriba vuelve a aparecer en Spotify 1.3.4.",
   "url": "Instalá la actualización desde CeitoTweaks."
 }
